@@ -1,3 +1,3 @@
 <h1 align="center">
-  Precision-Agriculture app
+  Crop recommendation system
 </h1>
